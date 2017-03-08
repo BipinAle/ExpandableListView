@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">ExpandableList</string>
+    <string-array name="Titles">
+        <item>Football</item>
+        <item>Cricket</item>
+        <item>Baseball</item>
+        <item>Hockey</item>
+        <item>Rugby</item>
+
+    </string-array>
+
+    <string-array name="FootballList">
+        <item>
+            Lionel Messi
+            Cristiano Ronaldoid
+            Xavi Midfielder
+            Andres Iniesta
+            Zlatan Ibrahimovi
+        </item>
+
+        <item>
+            Lionel Messi
+            Cristiano Ronaldoid
+            Xavi Midfielder
+            Andres Iniesta
+            Zlatan Ibrahimovi
+        </item>
+
+        <item>
+            Lionel Messi
+            Cristiano Ronaldoid
+            Xavi Midfielder
+            Andres Iniesta
+            Zlatan Ibrahimovi
+        </item>
+        <item>
+            Lionel Messi
+            Cristiano Ronaldoid
+            Xavi Midfielder
+            Andres Iniesta
+            Zlatan Ibrahimovi
+        </item>
+        <item>
+            Lionel Messi
+            Cristiano Ronaldoid
+            Xavi Midfielder
+            Andres Iniesta
+            Zlatan Ibrahimovi
+        </item>
+    </string-array>
+</resources>
